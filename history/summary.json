@@ -3,16 +3,16 @@
     "name": "RDPAI",
     "url": "https://rdpai.utools.club",
     "slug": "rdpai",
-    "status": "down",
+    "status": "up",
     "uptime": "24.86%",
-    "time": 843
+    "time": 845
   },
   {
     "name": "SuperPi@Home",
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
-    "status": "down",
+    "status": "up",
     "uptime": "24.75%",
-    "time": 746
+    "time": 747
   }
 ]
