@@ -8,39 +8,11 @@ sites:
   - name: RPKI Validator
     url: https://rpki.launchpadx.top
 
-  - name: Looking Glass
-    url: https://lg.launchpadx.top
-    followRedirects: true
-
   - name: Server Monitor
     url: https://tz.launchpadx.top
 
   - name: Grafana
     url: https://grafana.launchpadx.top
-
-  - name: Anycast Recursive DNS
-    check: "tcp-ping"
-    url: dns.launchpadx.top
-    port: 53
-    ipv6: true
-
-  - name: Anycast Ad-blocking DNS
-    check: "tcp-ping"
-    url: adns.launchpadx.top
-    port: 53
-    ipv6: true
-
-  - name: Anycast DNS64 Recursive DNS
-    check: "tcp-ping"
-    url: dns64.launchpadx.top
-    port: 53
-    ipv6: true
-
-  - name: Anycast DNS64 Ad-blocking DNS
-    check: "tcp-ping"
-    url: adns64.launchpadx.top
-    port: 53
-    ipv6: true
 
 status-website:
   cname: status.launchpadx.top
