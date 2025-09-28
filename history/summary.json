@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1901,
-    "timeDay": 1901,
-    "timeWeek": 1901,
-    "timeMonth": 1901,
-    "timeYear": 1901,
+    "time": 6134,
+    "timeDay": 6134,
+    "timeWeek": 6134,
+    "timeMonth": 6134,
+    "timeYear": 6134,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 751,
+    "timeDay": 751,
+    "timeWeek": 751,
+    "timeMonth": 751,
+    "timeYear": 751,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Looking Glass",
-    "url": "https://lg.launchpadx.top",
-    "icon": "https://icons.duckduckgo.com/ip3/lg.launchpadx.top.ico",
-    "slug": "looking-glass",
-    "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
-    "dailyMinutesDown": {
-      "2025-09-28": 8
-    }
   },
   {
     "name": "Server Monitor",
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 893,
-    "timeWeek": 893,
-    "timeMonth": 893,
-    "timeYear": 893,
+    "time": 869,
+    "timeDay": 869,
+    "timeWeek": 869,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   },
   {
@@ -84,91 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 933,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "time": 865,
+    "timeDay": 865,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Anycast Recursive DNS",
-    "url": "dns.launchpadx.top",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "anycast-recursive-dns",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-28": 8
-    }
-  },
-  {
-    "name": "Anycast Ad-blocking DNS",
-    "url": "adns.launchpadx.top",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "anycast-ad-blocking-dns",
-    "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-28": 8
-    }
-  },
-  {
-    "name": "Anycast DNS64 Recursive DNS",
-    "url": "dns64.launchpadx.top",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "anycast-dns-64-recursive-dns",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-28": 8
-    }
-  },
-  {
-    "name": "Anycast DNS64 Ad-blocking DNS",
-    "url": "adns64.launchpadx.top",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "anycast-dns-64-ad-blocking-dns",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-28": 8
-    }
   }
 ]
