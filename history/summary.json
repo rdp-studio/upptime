@@ -4,18 +4,20 @@
     "url": "https://rpca.launchpadx.top",
     "icon": "https://icons.duckduckgo.com/ip3/rpca.launchpadx.top.ico",
     "slug": "rpki-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3949,
-    "timeDay": 1852,
-    "timeWeek": 3949,
-    "timeMonth": 3949,
-    "timeYear": 3949,
-    "dailyMinutesDown": {}
+    "time": 3431,
+    "timeDay": 1089,
+    "timeWeek": 3431,
+    "timeMonth": 3431,
+    "timeYear": 3431,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "RPKI Validator",
@@ -40,18 +42,20 @@
     "url": "https://tz.launchpadx.top",
     "icon": "https://icons.duckduckgo.com/ip3/tz.launchpadx.top.ico",
     "slug": "server-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 738,
-    "timeWeek": 831,
-    "timeMonth": 831,
-    "timeYear": 831,
-    "dailyMinutesDown": {}
+    "time": 757,
+    "timeDay": 527,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "Grafana",
