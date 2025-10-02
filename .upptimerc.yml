@@ -4,12 +4,16 @@ repo: upptime
 sites:
   - name: RPKI CA
     url: https://rpca.launchpadx.top
+    headers:
+      - "X-Upptime-Auth: $CF_AUTH_TOKEN"
 
   - name: RPKI Validator
     url: https://rpki.launchpadx.top
 
   - name: Server Monitor
     url: https://tz.launchpadx.top
+    headers:
+      - "X-Upptime-Auth: $CF_AUTH_TOKEN"
 
   - name: Grafana
     url: https://grafana.launchpadx.top
