@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpca.launchpadx.top.ico",
     "slug": "rpki-ca",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3431,
-    "timeDay": 1089,
-    "timeWeek": 3431,
-    "timeMonth": 3431,
-    "timeYear": 3431,
+    "uptime": "93.67%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "93.67%",
+    "time": 3038,
+    "timeDay": 304,
+    "timeWeek": 3038,
+    "timeMonth": 3038,
+    "timeYear": 3038,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-02": 77,
+      "2025-10-01": 292
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 991,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "time": 772,
+    "timeDay": 611,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tz.launchpadx.top.ico",
     "slug": "server-monitor",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 527,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "uptime": "93.67%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "93.67%",
+    "time": 700,
+    "timeDay": 308,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-02": 77,
+      "2025-10-01": 292
     }
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 1026,
-    "timeWeek": 923,
-    "timeMonth": 923,
-    "timeYear": 923,
+    "time": 871,
+    "timeDay": 558,
+    "timeWeek": 871,
+    "timeMonth": 871,
+    "timeYear": 871,
     "dailyMinutesDown": {}
   }
 ]
